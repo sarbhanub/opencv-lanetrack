@@ -19,8 +19,7 @@ In this project, I am using OpenCV to process the video file step by step to oba
 
 ## In action
 
-![Processed video](https://raw.githubusercontent.com/sarbhanub/OpenCV-LaneDetection/master/data/screenshots/video-converted.gif)
-
+![Processed video](https://raw.githubusercontent.com/sarbhanub/opencv-lanetrack/master/data/screenshots/video-converted.gif)
   
 ### Acknowledgements
 
